@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "TalkEssentials",
-    "slug": "TalkEssentials",
+    "name": "LNCT Notify",
+    "slug": "LNCTNotify",
     "platforms": [
       "ios",
       "android",
@@ -21,6 +21,9 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    "android": {
+        "package": "com.surajapps.talkessentials"
+    },
     "ios": {
       "supportsTablet": true
     }
