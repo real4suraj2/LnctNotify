@@ -2,8 +2,10 @@
 LNCT Notify Prototype
 
 # Pre Requisites
-- Node Js >= 10.0
-- Expo SDK @37
+```bash
+Node Js >= 10.0
+Expo SDK @37
+```
 
 # Installation Steps
 - Clone this repo using `git clone https://github.com/real4suraj2/LnctNotify.git`
