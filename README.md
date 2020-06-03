@@ -1,12 +1,12 @@
 # LnctNotify
 LNCT Notify Prototype
 
-<p float="left">
-  <img src="assets/snapshots/snapshot_home.jpg" width="100" />
-  <img src="assets/snapshots/snapshot_dashboard.jpg" width="100" /> 
-  <img src="assets/snapshots/snapshot_post.jpg" width="100" />
-  <img src="assets/snapshots/snapshot_info.jpg" width="100" />
-  <img src="assets/snapshots/snapshot_filter.jpg" width="100" />
+<p float="middle">
+  <img src="assets/snapshots/snapshot_home.jpg" width="150" />
+  <img src="assets/snapshots/snapshot_dashboard.jpg" width="150" /> 
+  <img src="assets/snapshots/snapshot_post.jpg" width="150" />
+  <img src="assets/snapshots/snapshot_info.jpg" width="150" />
+  <img src="assets/snapshots/snapshot_filter.jpg" width="150" />
 </p>
 
 # Pre Requisites
