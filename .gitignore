@@ -9,7 +9,7 @@ npm-debug.*
 *.orig.*
 web-build/
 web-report/
-constants/firebase-config.tsx
+constants/firebase-config.*
 helpers/
 
 # macOS
