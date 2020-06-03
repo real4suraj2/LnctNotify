@@ -1,7 +1,7 @@
 # LnctNotify
 LNCT Notify Prototype
 
-<p float="middle">
+<p align="middle">
   <img src="assets/snapshots/snapshot_home.jpg" width="150" />
   <img src="assets/snapshots/snapshot_dashboard.jpg" width="150" /> 
   <img src="assets/snapshots/snapshot_post.jpg" width="150" />
