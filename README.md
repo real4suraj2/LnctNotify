@@ -1,6 +1,13 @@
 # LnctNotify
 LNCT Notify Prototype
-![Home](assets/snapshots/snapshot_home.jpg?raw=true)![Dashboard](assets/snapshots/snapshot_dashboard.jpg?raw=true)![Post](assets/snapshots/snapshot_post.jpg?raw=true)![Info](assets/snapshots/snapshot_info.jpg?raw=true)![Filter](assets/snapshots/snapshot_filter.jpg?raw=true)
+
+<p float="left">
+  <img src="assets/snapshots/snapshot_home.jpg" width="100" />
+  <img src="assets/snapshots/snapshot_dashboard.jpg" width="100" /> 
+  <img src="assets/snapshots/snapshot_post.jpg" width="100" />
+  <img src="assets/snapshots/snapshot_info.jpg" width="100" />
+  <img src="assets/snapshots/snapshot_filter.jpg" width="100" />
+</p>
 
 # Pre Requisites
 ```bash
