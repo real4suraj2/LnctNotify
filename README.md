@@ -1,5 +1,10 @@
 # LnctNotify
 LNCT Notify Prototype
+[Home](assets/snapshots/snapshot_home.jpg?raw=true)
+[Dashboard](assets/snapshots/snapshot_dashboard.jpg?raw=true)
+[Post](assets/snapshots/snapshot_post.jpg?raw=true)
+[Info](assets/snapshots/snapshot_info.jpg?raw=true)
+[Filter](assets/snapshots/snapshot_filter.jpg?raw=true)
 
 # Pre Requisites
 ```bash
@@ -13,3 +18,4 @@ Expo SDK @37
 - Configure `constant/color-config.tsx` file with your own App UI config.
 - Setup the project using `npm install` command.
 - Execute `expo start` to start the project.
+
