@@ -1,10 +1,6 @@
 # LnctNotify
 LNCT Notify Prototype
-![Home](assets/snapshots/snapshot_home.jpg?raw=true)
-![Dashboard](assets/snapshots/snapshot_dashboard.jpg?raw=true)
-![Post](assets/snapshots/snapshot_post.jpg?raw=true)
-![Info](assets/snapshots/snapshot_info.jpg?raw=true)
-![Filter](assets/snapshots/snapshot_filter.jpg?raw=true)
+![Home](assets/snapshots/snapshot_home.jpg?raw=true)![Dashboard](assets/snapshots/snapshot_dashboard.jpg?raw=true)![Post](assets/snapshots/snapshot_post.jpg?raw=true)![Info](assets/snapshots/snapshot_info.jpg?raw=true)![Filter](assets/snapshots/snapshot_filter.jpg?raw=true)
 
 # Pre Requisites
 ```bash
